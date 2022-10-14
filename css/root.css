@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "co-font";
+    src: url(../assets/fonts/OPTIEdgarBold-Extended.woff);
+}
+
+@font-face {
+    font-family:"font-200";
+    src: url(../assets/fonts/Kanit-ExtraLight_200.woff);
+}
+
+@font-face {
+    font-family:"font-300";
+    src: url(../assets/fonts/Kanit-Light_300.woff);
+}
+
+@font-face {
+    font-family:"font-400";
+    src: url(../assets/fonts/Kanit-Regular_400.woff);
+}
+
+@font-face {
+    font-family: "font-700";
+    src: url(../assets/fonts/Kanit-Bold_700.woff);
+}
+
+:root {
+    --prymary-color: #ffe600;
+    --b-color: #393939;
+    --b-light-color:#b1b1b1;
+    --w-color: #f5f5f5;
+}
